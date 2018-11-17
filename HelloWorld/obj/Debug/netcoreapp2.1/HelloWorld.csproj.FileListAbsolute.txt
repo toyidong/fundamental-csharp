@@ -1,0 +1,11 @@
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/home/yi/workspace/git/fundamental-csharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb

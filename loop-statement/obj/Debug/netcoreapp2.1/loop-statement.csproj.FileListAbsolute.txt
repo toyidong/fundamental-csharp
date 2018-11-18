@@ -1,0 +1,11 @@
+/home/yi/workspace/git/fundamental-csharp/loop-statement/bin/Debug/netcoreapp2.1/loop-statement.deps.json
+/home/yi/workspace/git/fundamental-csharp/loop-statement/bin/Debug/netcoreapp2.1/loop-statement.runtimeconfig.json
+/home/yi/workspace/git/fundamental-csharp/loop-statement/bin/Debug/netcoreapp2.1/loop-statement.runtimeconfig.dev.json
+/home/yi/workspace/git/fundamental-csharp/loop-statement/bin/Debug/netcoreapp2.1/loop-statement.dll
+/home/yi/workspace/git/fundamental-csharp/loop-statement/bin/Debug/netcoreapp2.1/loop-statement.pdb
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.csprojAssemblyReference.cache
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.csproj.CoreCompileInputs.cache
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.AssemblyInfoInputs.cache
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.AssemblyInfo.cs
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.dll
+/home/yi/workspace/git/fundamental-csharp/loop-statement/obj/Debug/netcoreapp2.1/loop-statement.pdb
